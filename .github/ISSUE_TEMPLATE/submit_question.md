@@ -1,5 +1,5 @@
 ---
-name: Question for GOOS
+name: Question for Gift of Open Source
 about: Ask the Gift of Open Source organizers a question
 labels: question
 ---
