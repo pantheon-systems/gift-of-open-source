@@ -7,7 +7,7 @@ The Gift of Open Source is open to everyone in our global community.
 Whether you’re a developer, student learning to code, event host, or just someone looking to have fun, you can help drive growth of open source and make positive contributions to the community.
 All backgrounds and skill levels are encouraged to participate.
 
-To get involved, contribute to any open source project hosted on GitHub.com, that has the `Gift-of-Open-Source` topic and contribute anything between December 1 and December 31 midnight (PDT) in 2021. 
+To get involved, contribute to any open source project hosted on GitHub.com, that has the `Gift-of-Open-Source` topic and contribute anything between December 1 and December 31 midnight (PST) in 2021. 
 
 
 ## How to Contribute?
@@ -33,7 +33,7 @@ Make X quality contributions to a participating repository. Here's how to get in
 
 * If a maintainer reports behavior that’s not in line with the project’s code of conduct, you will be ineligible to participate.
 
-* A pull request is considered approved for GOOS once it has:
+* A pull request is considered approved for Gift of Open Source once it has:
   * An overall approving review from maintainers.
   * Has been given the `Gift-of-open-source-accepted` label.
   * Has been merged by maintainers.
