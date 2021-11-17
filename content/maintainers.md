@@ -10,7 +10,7 @@ In the article:
 ## Recommendations:
 * Add the `Gift-of-Open-Source` topic to your repository so people know you're participating in the Gift of Open Source.
 * Apply the `Gift-of-Open-Source` label to issues in your GitHub repository that are ready for contributors to work on.
-* Add or update your CONTRIBUTING.md file with contribution guidelines for your repository.
+* Add or update your `CONTRIBUTING.md` file with contribution guidelines for your repository.
 * Choose issues that have a well-defined scope and are self-contained. 
 * Adopt a code of conduct to foster a greater sense of inclusion and community. 
 * Be ready to review pull requests, approving those that are valid, and flagging those that are not as 'invalid' or 'spam'.
@@ -25,10 +25,12 @@ A pull request can be approved either by giving it an overall approving review f
 
 **Q: How do I encourage contributions to my repos?**
 
-**A:** First, classify your repository with the `gift-of-open-source` topic. This will alert participants that your repo is participating in the Gift of Open Source.   You can also create issues for anything you’d like contributors to help with, making sure to give them a `gift-of-open-source-accepted` label so they’re easier to discover. You can also share issues or repositories on Twitter, using #GiftOfOpenSource. We’ll try to retweet as many as we can for contributors to see!
+**A:** First, classify your repository with the `gift-of-open-source` topic. This will alert participants that your repo is participating in the Gift of Open Source. You can also create issues for anything you’d like contributors to help with, making sure to give them a `gift-of-open-source` label so they’re easier to discover. You can also share issues or repositories on Twitter, using #GiftOfOpenSource. We’ll try to retweet as many as we can for contributors to see!
+
+If a pull request is accepted, add the `gift-of-open-source-accepted` label to ensure it counts towards a successful contribution.
 
 **Q: How can I exclude my repository from the Gift of Open Source?**
-**A:** If your repository does not include either of the Gift of Open Source labels, pull requests from your repository will not be counted."
+**A:** If your repository does not include either of the Gift of Open Source labels, pull requests from your repository will not be counted.
 
 ## Resources
 ### GitHub
