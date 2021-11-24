@@ -34,6 +34,6 @@ _____________________________
 
 ## Acknowledgements
 
-Shout out to Hacktoberfest 2021 for inspiring thGift of Open Source project.
+Shout out to Hacktoberfest 2021 for inspiring the Gift of Open Source project.
 
 
