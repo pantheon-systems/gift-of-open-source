@@ -1,5 +1,7 @@
 # Gift of Open Source
 
+[![Minimal Support](https://img.shields.io/badge/Pantheon-Minimal_Support-yellow?logo=pantheon&color=FFDC28)](https://pantheon.io/docs/oss-support-levels#minimal-support)
+
 Welcome! Help make the open web more inclusive, efficient and impactful, by contributing to the open source projects you love most, during the month of December. The [Gift of Open Source](https://pantheon.io/gift-open-source#supportopensource) is a month-long event that is a celebration of community, learning, giving back, and is free of charge.
 
 Read on to learn how you can get started.
